@@ -6,11 +6,11 @@ Prvstorage is a web application for storing personal files in a private space.
 
 Shortly put: you can use it to make your own file server, accessable over the Internet or local network, with a very simple and intuitive user interface. 
 
-This appication uses <a href="https://laravel.com" target="_blank">LARAVEL</a> framework and <a href="https://materializecss.com/" target="_blank">MATERIALIZE CSS</a> framework.
+This appication uses <a href="https://laravel.com" target="_blank">LARAVEL</a> framework, <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>, <a href="https://vuejs.org/" target="_blank">Vuejs</a>, <a href="https://inertiajs.com/" target="_blank">Inertiajs</a>, .
 
 ## Prvstorage 2
 
-Initial Prvstoarge was built using Laravel and Materialize.css framework. That setup lacked reactivity, so, this is an attempt to rewrite Prvstorage app using <a href="https://laravel.com" target="_blank">LARAVEL</a> , <a href="https://vuejs.org" target="_blank">VUE</a>  and <a href="https://inertiajs.com" target="_blank">INERTIA</a>
+Initial Prvstoarge was built using Laravel and Materialize.css framework. That setup lacked reactivity, so, this is an attempt to rewrite Prvstorage app using <a href="https://laravel.com" target="_blank">LARAVEL</a> , <a href="https://vuejs.org" target="_blank">VUEJS</a>  and <a href="https://inertiajs.com" target="_blank">INERTIAJS</a>
 
 ## Getting started
 
